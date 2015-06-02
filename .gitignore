@@ -1,2 +1,3 @@
 Plack-Debugger-Panel-Dancer2-Version-*
 t/tmp/*
+.build/
