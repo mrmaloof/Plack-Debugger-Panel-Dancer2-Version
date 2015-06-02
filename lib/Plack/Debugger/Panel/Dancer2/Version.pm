@@ -33,5 +33,3 @@ Display Dancer2's version in Plack::Debugger.
 
 L<Plack::Debugger>, L<Dancer2> 
 
-=head1 AUTHOR
-
