@@ -1,0 +1,28 @@
+# NAME
+
+Plack::Debugger::Panel::Dancer2::Version - Plack Debugger Panel for displaying Dancer2 Version
+
+# VERSION
+
+version 0.001
+
+# DESCRIPTION
+
+Display Dancer2's version in Plack::Debugger.
+
+# SEE ALSO
+
+[Plack::Debugger](https://metacpan.org/pod/Plack::Debugger), [Dancer2](https://metacpan.org/pod/Dancer2) 
+
+# AUTHOR
+
+# AUTHOR
+
+William Carr <bill@bottlenose-wine.com>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2015 by William Carr.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
