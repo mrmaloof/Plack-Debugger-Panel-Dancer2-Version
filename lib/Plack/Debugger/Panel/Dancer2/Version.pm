@@ -15,7 +15,6 @@ sub new {
     $args{'after'} = sub {
         my $self = shift;
 
-        my $version = '0.160001';
         $self->set_subtitle($Dancer2::VERSION);
     };
     $class->SUPER::new( \%args );
